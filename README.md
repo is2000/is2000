@@ -32,5 +32,5 @@ Areas of Interest: Data Science, Machine Learning, Deep Learning, Embedded Syste
 
 📫 How to reach me: ishitamsingh@gmail.com
 
-🔗 Connect with me on wwww.linkedin.com/in/ishitasingh2212 
+🔗 Connect with me on www.linkedin.com/in/ishitasingh2212 
 
