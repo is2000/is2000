@@ -1,6 +1,5 @@
 ## Hi there 👋, I'm Ishita Singh!
-About Me
-I'm a master student, with a passion for motorsport, machine learning, data science and mechatronics. I love information and am always curious about how things work in this world. I am very excited to land a new internship and continue my contribution to the world of tech, science and engineering!
+I'm a master student, with a passion for motorsport engineering, machine learning, data science and mechatronics. I love information and am always curious about how things work in this world. I am very excited to land a new internship and continue my contribution to the world of tech, science and engineering!
 
 ### 💻 My Toolkit
 Here are some of the technologies and tools I enjoy using:
