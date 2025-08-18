@@ -5,7 +5,9 @@ I'm a master student, with a passion for motorsport engineering, machine learnin
 Here are some of the technologies and tools I enjoy using:
 
 Languages: Python, Julia, C/C++
+
 Software: AutoCAD, CoppeliaSim, EAGLE, Github, KiCAD, LTspice, MATLAB, NI Multisim, Onshape, OpenRocket, Proteus, PTC Creo, TinkerCAD, Visual Studio Code
+
 Areas of Interest: Data Science, Machine Learning, Deep Learning, Embedded Systems, Control Systems, Microelectronics, Electric Vehicles, Battery Management Systems, VLSI, Storytelling
 
 ### What I'm currently working on
@@ -17,9 +19,13 @@ Areas of Interest: Data Science, Machine Learning, Deep Learning, Embedded Syste
 
 ### 💻 My previous projects:
 🏃‍♀️ EV Motor Temperature Prediction: https://github.com/is2000/EV_Motor_Temp_Pred
+
 🏃‍♀️ Quantum Machine Learning: Image Regression: https://github.com/is2000/quantum_image
+
 🏃‍♀️ Lewis Hamilton's Domination, race data analysis: https://github.com/is2000/FastF1_LH44
+
 🏃‍♀️ Christmas Challenge: Image Regression (deep learning): https://github.com/is2000/ChristmasChallenge
+
 🏃‍♀️ Robot Line Follower (Coppeliasim): https://github.com/is2000/robots_coppeliasim
 
 ### Find me around the web 🌐
