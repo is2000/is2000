@@ -24,7 +24,7 @@ Areas of Interest: Data Science, Machine Learning, Deep Learning, Embedded Syste
 
 🏃‍♀️ Lewis Hamilton's Domination, race data analysis: https://github.com/is2000/FastF1_LH44
 
-🏃‍♀️ Christmas Challenge: Image Regression (deep learning): https://github.com/is2000/ChristmasChallenge
+🏃‍♀️ Christmas Challenge: Image Classification (deep learning): https://github.com/is2000/ChristmasChallenge
 
 🏃‍♀️ Robot Line Follower (Coppeliasim): https://github.com/is2000/robots_coppeliasim
 
