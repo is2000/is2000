@@ -10,19 +10,10 @@ Software: AutoCAD, CoppeliaSim, EAGLE, Github, KiCAD, LTspice, MATLAB, NI Multis
 
 Areas of Interest: Data Science, Machine Learning, Deep Learning, Embedded Systems, Control Systems, Microelectronics, Electric Vehicles, Battery Management Systems, VLSI, Storytelling
 
-### What I'm currently working on
-🔭 I’m currently working on a Data Science project about predicting the temperatures of a motor in an electric vehicle.
-
-🌱 I’m currently learning about the FastF1 library, and implementing it in a Jupyter notebook which analyses race data from the dominating years of Sir Lewis Hamilton.
-
-👯 I’m currently looking for a Thesis as the final stage of my master's degree!
-
 ### 💻 My previous projects:
 🏃‍♀️ EV Motor Temperature Prediction: https://github.com/is2000/EV_Motor_Temp_Pred
 
 🏃‍♀️ Quantum Machine Learning: Image Regression: https://github.com/is2000/quantum_image
-
-🏃‍♀️ Lewis Hamilton's Domination, race data analysis: https://github.com/is2000/FastF1_LH44
 
 🏃‍♀️ Christmas Challenge: Image Classification (deep learning): https://github.com/is2000/ChristmasChallenge
 
