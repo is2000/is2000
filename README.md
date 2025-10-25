@@ -1,27 +1,35 @@
 ## Hi there 👋, I'm Ishita Singh!
-I'm a master student, with a passion for motorsport engineering, machine learning, data science and mechatronics. I love information and am always curious about how things work in this world. I am very excited to land a new internship and continue my contribution to the world of tech, science and engineering!
+
+I'm a **Master's student in Mechatronics** at the University of Siegen, with a passion for **machine learning, data science, and automotive engineering**. I love exploring how things work and am eager to contribute to innovative projects in tech, science, and engineering!
+
+🔍 **Currently seeking:** Master's thesis opportunities in ML/AI, battery systems, or automotive applications
 
 ### 💻 My Toolkit
-Here are some of the technologies and tools I enjoy using:
 
-Languages: Python, Julia, C/C++
+**Languages:** Python, Julia, C/C++
 
-Software: AutoCAD, CoppeliaSim, EAGLE, Github, KiCAD, LTspice, MATLAB, NI Multisim, Onshape, OpenRocket, Proteus, PTC Creo, TinkerCAD, Visual Studio Code
+**Frameworks & Libraries:** PyTorch, TensorFlow, PennyLane, OpenCV, NumPy, Pandas
 
-Areas of Interest: Data Science, Machine Learning, Deep Learning, Embedded Systems, Control Systems, Microelectronics, Electric Vehicles, Battery Management Systems, VLSI, Storytelling
+**Software & Tools:** MATLAB, CoppeliaSim, Git/GitHub, VS Code, AutoCAD, Eagle, LTspice, KiCAD
 
-### 💻 My previous projects:
-🏃‍♀️ EV Motor Temperature Prediction: https://github.com/is2000/EV_Motor_Temp_Pred
+**Areas of Interest:** Machine Learning, Deep Learning, Electric Vehicles, Battery Management Systems, Control Systems, Data Science, Motorsport Engineering
 
-🏃‍♀️ Quantum Machine Learning: Image Regression: https://github.com/is2000/quantum_image
+### 🚀 My Projects
 
-🏃‍♀️ Christmas Challenge: Image Classification (deep learning): https://github.com/is2000/ChristmasChallenge
+🏎️ **[EV Motor Temperature Prediction](https://github.com/is2000/EV_Motor_Temp_Pred)** - Predictive modeling using neural networks for EV motor temperature forecasting
 
-🏃‍♀️ Robot Line Follower (Coppeliasim): https://github.com/is2000/robots_coppeliasim
+🔬 **[Quantum Machine Learning: Image Regression](https://github.com/is2000/quantum_image)** - Quantum ML model implementation using PennyLane
 
-### Find me around the web 🌐
+🎄 **[Christmas Challenge: Image Classification](https://github.com/is2000/ChristmasChallenge)** - Deep learning CNN for image classification (70% accuracy)
 
-📫 How to reach me: ishitamsingh@gmail.com
+🤖 **[Robot Line Follower](https://github.com/is2000/robots_coppeliasim)** - Autonomous navigation simulation using CoppeliaSim and OpenCV
 
-🔗 Connect with me on www.linkedin.com/in/ishitasingh2212 
+### 🌐 Find me around the web
 
+📫 **Email:** ishitamsingh@gmail.com
+
+🔗 **LinkedIn:** [linkedin.com/in/ishitasingh2212](https://www.linkedin.com/in/ishitasingh2212)
+
+---
+
+💡 *Open to collaborations and interesting projects in ML, automotive tech, and data science!*
