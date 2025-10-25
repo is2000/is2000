@@ -30,7 +30,7 @@ I'm a **Master's student in Mechatronics** at the University of Siegen, with a p
 
 🔗 **LinkedIn:** [linkedin.com/in/ishitasingh2212](https://www.linkedin.com/in/ishitasingh2212)
 
-🚀 **Resume:**  (https://github.com/is2000/resume)
+🚀 **[Resume]:**  (https://github.com/is2000/resume)
 
 ---
 
